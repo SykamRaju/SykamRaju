@@ -21,7 +21,12 @@ You can click the Preview link to take a look at your changes.
 ![Sykam Raju github stats](https://github-readme-stats.vercel.app/api?username=SykamRaju&theme=nord&show_icons=true&count_private=true)
  
  
- <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used:
+[ <!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used:](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SykamRaju&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SykamRaju&theme=nord_dark)
+
+### Social:
+
+<a href="https://www.kaggle.com/sykamraju"><img alt="Kaggle" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+
