@@ -30,3 +30,9 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.kaggle.com/sykamraju"><img alt="Kaggle" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 
+
+<img alt="Linkedin" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>   
+
+
+<img alt="Twitter" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>  
+
