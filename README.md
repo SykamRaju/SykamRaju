@@ -32,10 +32,10 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) ← *(replace this with your actual LinkedIn)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/raju-s-97480a226/)
 - 🌐 [Portfolio Website](http://raju.net.in)
 - 🧑‍💻 [GitHub Projects](https://github.com/SykamRaju?tab=repositories)
-- 📬 Email: your@email.com *(or use contact form on your site)*
+- 📬 Email: www.raju@gmail.com
 
 ---
 
