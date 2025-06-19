@@ -1,39 +1,42 @@
-- 👋 Hi, I’m @SykamRaju
-- 👀 I’m interested in Python, Data Science, PHP and Astrology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Raju Sykam
 
-![](https://komarev.com/ghpvc/?username=SykamRaju&style=flat-square)
-<!---
-SykamRaju/SykamRaju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br />
+🚀 Full-Stack Developer | 💡 Data Scientist | 🧠 AI Developer  
+🎓 M.Sc. Mathematics (Ongoing) | PG in Data Science (IIIT Hyderabad)  
+🎓 B.Tech in Electrical & Electronics Engineering (EEE)  
+🎓 M.A. in Astrology (Potti Sreeramulu Telugu University, 2010)  
+🇮🇳 Based in India | 🌐 Creator of [raju.net.in](http://raju.net.in)
 
-### Languages and Tools:
-<img alt="PHP Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>   
-<img alt="Python Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+---
 
+## 🔥 My Featured Projects
 
-<!--   Stats -->
-### 📊 GitHub Stats:
-![Sykam Raju github stats](https://github-readme-stats.vercel.app/api?username=SykamRaju&theme=nord&show_icons=true&count_private=true)
- 
- 
-[ <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used:](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SykamRaju&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SykamRaju&theme=nord_dark)
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| [📊 Data Story Teller](https://github.com/SykamRaju/Data-Story-Teller) | Upload a CSV → Get GPT-generated insights, charts, and summaries | [Try It](https://data-story-teller.streamlit.app) |
+| [🧠 Streaming Anomaly API](https://github.com/SykamRaju/Streaming-Anomaly-API) | Real-time anomaly detection for financial data (FastAPI + Streamlit) | [Live UI](https://streaming-anomaly-api.streamlit.app) |
+| More coming soon... 🚧 | Building more AI apps, dashboards, and APIs |
 
-### Social:
+---
 
-<a href="https://www.kaggle.com/sykamraju"><img alt="Kaggle" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+## 📘 About Me
 
-<a href="https://www.linkedin.com/feed/">
-<img alt="Linkedin" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>   
-</a>
+- 🔬 Strong math foundation with **M.Sc. Mathematics** (ongoing)
+- 🧠 Completed **Postgraduate Program in Data Science** from IIIT Hyderabad
+- 🎓 **B.Tech in Electrical & Electronics Engineering**
+- 🔯 **M.A. in Astrology**, Potti Sreeramulu Telugu University (2010)
+- 💻 **Full-Stack Developer** with 20+ years of experience (PHP, Python, Laravel, JS, etc.)
+- ✍️ Former top tech blogger in India since 2006 (raju.net.in)
+- 🧪 Passionate about building real-world AI, ML, and data applications
 
-<a href="https://twitter.com/rajusykam">
-<img alt="Twitter" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>  
-</a>
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) ← *(replace this with your actual LinkedIn)*
+- 🌐 [Portfolio Website](http://raju.net.in)
+- 🧑‍💻 [GitHub Projects](https://github.com/SykamRaju?tab=repositories)
+- 📬 Email: your@email.com *(or use contact form on your site)*
+
+---
+
+_Thanks for visiting! I'm actively building and deploying AI/ML applications. Let's connect and collaborate!_
