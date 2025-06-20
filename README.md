@@ -12,6 +12,7 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
+| [🔮 Free Astrology API](https://freeastrologyapi.com) | Accurate Vedic & Western astrology APIs — built 100% from scratch without 3rd-party libraries. | [Visit Website](https://freeastrologyapi.com)    
 | [📊 Data Story Teller](https://github.com/SykamRaju/Data-Story-Teller) | Upload a CSV → Get GPT-generated insights, charts, and summaries | [Try It](https://data-story-teller.streamlit.app) |
 | [🧠 Streaming Anomaly API](https://github.com/SykamRaju/Streaming-Anomaly-API) | Real-time anomaly detection for financial data (FastAPI + Streamlit) | [Live UI](https://streaming-anomaly-api.streamlit.app) |
 | [🧪 Garbage Classifier](https://github.com/SykamRaju/ImageClassify-MLApp) | Deep learning model classifying garbage images (plastic, metal, etc.) | [Try It](https://huggingface.co/spaces/sykamraju/garbage-classifier-ui) |
