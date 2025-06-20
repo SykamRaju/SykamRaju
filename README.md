@@ -14,7 +14,9 @@
 |--------|-------------|-----------|
 | [📊 Data Story Teller](https://github.com/SykamRaju/Data-Story-Teller) | Upload a CSV → Get GPT-generated insights, charts, and summaries | [Try It](https://data-story-teller.streamlit.app) |
 | [🧠 Streaming Anomaly API](https://github.com/SykamRaju/Streaming-Anomaly-API) | Real-time anomaly detection for financial data (FastAPI + Streamlit) | [Live UI](https://streaming-anomaly-api.streamlit.app) |
+| [🧪 Garbage Classifier](https://github.com/SykamRaju/Garbage-Classifier) | Deep learning model classifying garbage images (plastic, metal, etc.) | [Try It](https://huggingface.co/spaces/sykamraju/garbage-classifier-ui) |
 | More coming soon... 🚧 | Building more AI apps, dashboards, and APIs |
+
 
 ---
 
